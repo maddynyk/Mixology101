@@ -5,6 +5,7 @@ author: "Maddison and Emma"
 ---
 
 <center> Canada’s Low-Risk Alcohol Drinking Guidelines <br/> </center>
+<br/>
 
 Drinking is a personal choice. If you choose to drink, these guidelines can help you decide when, where, why and how. <br/><br/>
 <b>Guideline 1</b><br/>
