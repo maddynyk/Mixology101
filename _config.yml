@@ -15,11 +15,6 @@ sass:
 # Build settings
 markdown:       kramdown
 
-# About
-author:
-  name:         Chester How
-  url:          http://chester.how
-  email:        chesterhow@gmail.com
 
 # Custom vars
 version:        3.4.1
