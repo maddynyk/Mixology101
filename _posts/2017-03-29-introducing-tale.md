@@ -4,7 +4,7 @@ title:  "Safe Alcohol Consumption"
 author: "Maddison and Emma"
 ---
 
-Canada’s Low-Risk Alcohol Drinking Guidelines
+Canada’s Low-Risk Alcohol Drinking Guidelines <br/>
 Drinking is a personal choice. If you choose to drink, these guidelines can help you decide when, where, why and how.
 Guideline 1
 Reduce your long-term health risks by drinking no more than:
@@ -33,20 +33,6 @@ For these guidelines, “a drink” means
 341 ml (12 oz.) bottle of 5% alcohol beer, cider or cooler
 142 ml (5 oz.) glass of 12% alcohol wine
 43 ml (1.5 oz.) serving of 40% distilled
+m/chesterhow/tale). If you spot any bugs or have any suggestions, feel free to create an issue or make a pull request.
 
-## Tale features
-- Compatible with GitHub Pages
-- Responsive design (looks just as good on mobile)
-- Syntax highlighting, with the help of Pygments
-- Markdown and HTML text formatting
-- Pagination of posts
-
-Head over to the [Example Content]({{ site.baseurl }}/2017-03-16/example-content) post for a showcase of Tale's text formatting features.
-
-## Browser Support
-Tale works on most if not all modern browsers, including Chrome, Safari and Firefox 👍🏼
-
-## Download or Contribute
-Tale is publicly hosted on GitHub, so go ahead and download or fork it at the [GitHub repository](https://github.com/chesterhow/tale). If you spot any bugs or have any suggestions, feel free to create an issue or make a pull request.
-
-Thanks for checking out Tale!
+Thanks for checking out Mixology101!
