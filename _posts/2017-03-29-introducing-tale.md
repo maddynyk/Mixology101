@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introducing Tale"
+title:  "Safe Alcohol Consumption"
 author: "Chester"
 ---
 
