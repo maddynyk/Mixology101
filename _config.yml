@@ -3,7 +3,7 @@ permalink:      /:year-:month-:day/:title
 
 # Setup
 title:          Mixology101
-paginate:       5
+paginate:       10
 baseurl:        "/mix101"
 url:            "https://chesterhow.github.io"
 
