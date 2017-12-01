@@ -8,8 +8,8 @@ author: "Maddison and Emma"
 <br/>
 
 Drinking is a personal choice. If you choose to drink, these guidelines can help you decide when, where, why and how. <br/><br/>
-<b>Guideline 1</b><br/>
-Reduce your long-term health risks by drinking no more than:
+  <b>Guideline 1</b><br/>
+  Reduce your long-term health risks by drinking no more than:
 - 10 drinks a week for women, with no more than 2 drinks a day most days
 - 15 drinks a week for men, with no more than 3 drinks a day most days
 - Plan non-drinking days every week to avoid developing a habit.<br/><br/>
