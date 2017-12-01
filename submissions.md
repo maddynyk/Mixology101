@@ -23,4 +23,3 @@ permalink: /submissions/
     </div>
   </form>
   </div>
-</section>
