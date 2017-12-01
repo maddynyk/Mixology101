@@ -6,6 +6,4 @@ Ingredients: Orange Juice, 2 Tequila, 1 Grenadine
 
 Recipe: Half fill a highball glass with ice cubes and add the tequila. Add orange juice to just below the rim then add a large dash of grenadine which will sink to the bottom giving the sunrise effect. Decorate with a slice of orange and cherry.
 
-
-<a href="tequila-sunrise-1200x628-social.jpg">
-<img border="0" alt="Tequila Sunrise" src="tequila-sunrise-1200x628-social.jpg" width="100" height="100">
+<img src="https://cdn.averiecooks.com/wp-content/uploads/2015/08/tequilasunrise-9-650x975.jpg">
