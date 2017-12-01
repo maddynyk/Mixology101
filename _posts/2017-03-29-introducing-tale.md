@@ -4,9 +4,9 @@ title:  "Safe Alcohol Consumption"
 author: "Maddison and Emma"
 ---
 
-Canada’s Low-Risk Alcohol Drinking Guidelines <br/>
-Drinking is a personal choice. If you choose to drink, these guidelines can help you decide when, where, why and how.
-Guideline 1
+<center> Canada’s Low-Risk Alcohol Drinking Guidelines <br/> <center/>
+Drinking is a personal choice. If you choose to drink, these guidelines can help you decide when, where, why and how. <br/>
+<b>Guideline 1<b/><br/>
 Reduce your long-term health risks by drinking no more than:
 10 drinks a week for women, with no more than 2 drinks a day most days
 15 drinks a week for men, with no more than 3 drinks a day most days
