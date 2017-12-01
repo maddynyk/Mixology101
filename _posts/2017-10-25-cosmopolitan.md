@@ -11,3 +11,4 @@ Recipe: Shake the vodka, cointreau, lime juice and cranberry juice together in a
 
 
 <a href="http://d3lp4xedbqa8a5.cloudfront.net/s3/digital-cougar-assets/food/2015/12/28/21623/Cosmopolitan-cocktail_F.jpg">HTML Images</a>
+<img src="http://d3lp4xedbqa8a5.cloudfront.net/s3/digital-cougar-assets/food/2015/12/28/21623/Cosmopolitan-cocktail_F.jpg">
