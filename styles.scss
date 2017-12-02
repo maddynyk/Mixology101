@@ -2,6 +2,11 @@
 # Use a comment to ensure Jekyll reads the file to be transformed into CSS later
 # only main files contain this front matter, not partials.
 ---
+#something {
+    -ms-user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+}
 
 @import 'variables';
 @import 'base';
